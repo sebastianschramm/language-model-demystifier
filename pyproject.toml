@@ -8,6 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11"
 transformers = {extras = ["torch"], version = "^4.35.2"}
+sentence-transformers = "^2.2.2"
 
 
 [tool.poetry.group.dev.dependencies]
