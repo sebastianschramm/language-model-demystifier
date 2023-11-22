@@ -6,12 +6,13 @@ This repo contains some working examples of different language model types.
 
 This is the list of available demos:
 
-- [Language Modeling](https://github.com/matteo-grella/gophercon-au-2023/tree/main/languagemodeling)
-- [Token Classification](https://github.com/matteo-grella/gophercon-au-2023/tree/main/tokenclassification)
-- [Question-Answering](https://github.com/matteo-grella/gophercon-au-2023/tree/main/questionanswering)
-- [Zero-Shot Text Classification](https://github.com/matteo-grella/gophercon-au-2023/tree/main/zeroshotclassification)
-- [Text Similarity](https://github.com/matteo-grella/gophercon-au-2023/tree/main/textsimilarity)
-- [Machine Translation](https://github.com/matteo-grella/gophercon-au-2023/tree/main/textgeneration)
+- [Masked Language Modeling](masked_language_modeling)
+- [Question-Answering](question_answering)
+- [Text Classification](text_classification)
+- [Text Generation / Machine Translation](text_generation)
+- [Text Similarity](text_similarity)
+- [Token Classification](token_classification)
+- [Zero-Shot Text Classification](zero_shot_classification)
 
 ## Installation
 
