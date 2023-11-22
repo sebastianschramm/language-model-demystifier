@@ -1,8 +1,6 @@
 from transformers import pipeline
 
-qa_pipe = pipeline(
-    "question-answering", model="deepset/bert-base-cased-squad2", return_full_text=False
-)
+qa_pipe = pipeline("question-answering", model="deepset/bert-base-cased-squad2")
 
 document = """Cloud computing is a technology that allows individuals and businesses to
               access computing resources over the Internet. It enables users to utilize
