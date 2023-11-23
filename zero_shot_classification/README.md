@@ -1,6 +1,7 @@
 # Zero-shot Text Classification
 
 ![Alt text](../code_png_images/zero_shot_classification.png?raw=true)
+![Alt text](../code_png_images/zero_shot_classification_response.png?raw=true)
 
 This example shows how to use a pre-trained BART model for zero-shot text classification.
 
