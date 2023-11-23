@@ -9,7 +9,7 @@ This is the list of available demos:
 - [Masked Language Modeling](masked_language_modeling)
 - [Question-Answering](question_answering)
 - [Text Classification](text_classification)
-- [Text Generation / Machine Translation](text_generation)
+- [Text Generation](text_generation)
 - [Text Similarity](text_similarity)
 - [Token Classification](token_classification)
 - [Zero-Shot Text Classification](zero_shot_classification)

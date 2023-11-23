@@ -1,5 +1,8 @@
 # Text Similarity
 
+![Alt text](../code_png_images/text_similarity.png?raw=true)
+![Alt text](../code_png_images/text_similarity_response.png?raw=true)
+
 This example demonstrates how to utilize a pre-trained BART model for measuring text similarity.
 
 To execute the program, use the following command in the terminal:

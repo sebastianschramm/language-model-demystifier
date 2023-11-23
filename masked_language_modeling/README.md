@@ -1,4 +1,7 @@
-# Language Modeling
+# Masked Language Modeling
+
+![Alt text](../code_png_images/masked_language_modelling.png?raw=true)
+![Alt text](../code_png_images/masked_language_modelling_response.png?raw=true)
 
 This example shows how to use a pre-trained BERT model for masked language modeling.
 

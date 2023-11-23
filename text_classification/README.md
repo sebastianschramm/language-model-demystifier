@@ -1,5 +1,8 @@
 # Text Classification
 
+![Alt text](../code_png_images/text_classification.png?raw=true)
+![Alt text](../code_png_images/text_classification_response.png?raw=true)
+
 This example shows how to use a pre-trained BART model for text classification.
 
 ```bash
